@@ -1,1 +1,0 @@
-# Image-to-text-classificatiom
